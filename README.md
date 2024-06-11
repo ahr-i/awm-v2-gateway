@@ -1,4 +1,4 @@
-# Capstone Design Project / Any Where Map
+# Capstone Design Project / Anywhere Map
 This repository is responsible for the entry point of AWM-v2.   
 
 ## 0. Introduction to Gateway
